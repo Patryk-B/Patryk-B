@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello There 
+
+[![wakatime](https://wakatime.com/badge/user/bd412ca0-a9fc-470f-82d6-b10ed4a4186e.svg)](https://wakatime.com/@bd412ca0-a9fc-470f-82d6-b10ed4a4186e)
 
 <!--
 **Patryk-B/Patryk-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
