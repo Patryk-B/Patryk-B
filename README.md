@@ -7,7 +7,7 @@
 
 <br/>
 
-***Codding activity table over year:***
+#### ***Codding activity table over year:***
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@PatrykB/b3c26d24-05a6-403a-9dca-3ee7bde68f22.svg">
@@ -17,7 +17,7 @@
 
 <br/>
 
-***Codding activity over 7 days:***
+#### ***Codding activity over 7 days:***
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@PatrykB/2851e032-04a9-4274-86a3-7fd50eff7c66.svg" width="100%">
@@ -27,7 +27,7 @@
 
 <br/>
 
-***Languages over 30 days:***
+#### ***Languages over 30 days:***
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@PatrykB/d875db35-bf8a-47d3-8ab8-ec76a60ed007.svg" width="100%">
