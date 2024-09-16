@@ -1,11 +1,10 @@
 # ***Patryk-B***
 
 ### ***Wakatime:***
+
 <!-- see: https://wakatime.com/share -->
 
 [![wakatime](https://wakatime.com/badge/user/bd412ca0-a9fc-470f-82d6-b10ed4a4186e.svg)](https://wakatime.com/@bd412ca0-a9fc-470f-82d6-b10ed4a4186e)
-
-<br/>
 
 #### ***Codding activity table over year:***
 
@@ -15,8 +14,6 @@
   <img src="https://wakatime.com/share/@PatrykB/02f06cc7-f01d-4738-81a7-13427b5c668d.svg">
 </picture>
 
-<br/>
-
 #### ***Codding activity over 7 days:***
 
 <picture>
@@ -24,8 +21,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@PatrykB/059b782e-473f-473e-9bee-86a83c975935.svg" width="100%">
   <img src="https://wakatime.com/share/@PatrykB/059b782e-473f-473e-9bee-86a83c975935.svg">
 </picture>
-
-<br/>
 
 #### ***Languages over 30 days:***
 
