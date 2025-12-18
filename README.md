@@ -1,9 +1,9 @@
 # ***Patryk-B***
 
 <!-- see: https://wakatime.com/share -->
-[![wakatime](https://wakatime.com/badge/user/bd412ca0-a9fc-470f-82d6-b10ed4a4186e.svg)](https://wakatime.com/@bd412ca0-a9fc-470f-82d6-b10ed4a4186e) 
+[![Wakatime](https://wakatime.com/badge/user/bd412ca0-a9fc-470f-82d6-b10ed4a4186e.svg)](https://wakatime.com/@bd412ca0-a9fc-470f-82d6-b10ed4a4186e) 
 
-#### ***Codding activity over year:***
+#### ***Codding activity according to [Wakatime](https://wakatime.com/@PatrykB):***
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@PatrykB/b3c26d24-05a6-403a-9dca-3ee7bde68f22.svg">
